@@ -2,9 +2,9 @@
 ![Alt text](./flow.png?raw=true "Basic flow")
 
 # Prerequisites
-The Terraform CLI (1.4.4+) installed.
-The AWS CLI installed.
-AWS account and associated credentials that allow you to create resources.
+- The Terraform CLI (1.4.4+) installed.
+- The AWS CLI installed.
+- AWS account and associated credentials that allow you to create resources.
 
 When you create a new configuration — or check out an existing configuration from version control — you need to initialize the directory with terraform init.
 ```bash
